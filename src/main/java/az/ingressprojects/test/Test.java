@@ -1,4 +1,4 @@
-package az.ingressprojects;
+package az.ingressprojects.test;
 
 public class Test {
     public static void main(String[] args) {
